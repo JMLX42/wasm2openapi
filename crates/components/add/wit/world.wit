@@ -1,0 +1,6 @@
+package example:component;
+
+world example {
+    // A function to add two 32bit signed integers.
+    export add: func(x: s32, y: s32) -> s32;
+}

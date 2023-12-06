@@ -1,0 +1,3 @@
+[workspace]
+members = ["crates/wasm2openapi", "crates/components/*"]
+resolver = "2"
