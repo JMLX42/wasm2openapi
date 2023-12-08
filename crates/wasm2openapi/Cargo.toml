@@ -12,5 +12,6 @@ pretty_env_logger = "0.5.0"
 serde_json = "1.0.108"
 utoipa = "4.1.0"
 utoipa-swagger-ui = { version = "5.0.0", features = ["actix-web"] }
+wasmtime = { version = "15.0.1", features = ["component-model"] }
 wit-component = "0.19.0"
 wit-parser = "0.13.0"
